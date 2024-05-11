@@ -26,9 +26,9 @@ This event will be conducted between 16th May 2024 to 6th June 2024
 Encrypted messages will be posted on [Krypto Sleuth](https://github.com/Programmers-Paradise/Krypto_Sleuth) during the event.
 Participants are needed to submit their solutions in the [submission Folder 📂](https://github.com/Programmers-Paradise/Krypto_Sleuth/tree/main/Submissions)
 
-*_Your solution must contain the process you used to decrypt the message._*
 
-## This Event is Open For All
+
+## *_This Event is Open For All_*
 
 ### Wishing You All Good Luck 👍 For Your Journey Into World Of Cryptography ...
 
