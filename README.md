@@ -15,7 +15,7 @@ tography puzzles, ranging from classic cyphers to modern encryption techniques.
  in data security
 So embark on the journey of Cryptography 📜🔍
 <p align="center">
-  <img src="https://github.com/left01205/Assets/blob/main/Event_logo_cryptography.png">
+  <img src="https://github.com/left01205/Assets/blob/main/Krypto_Sleuth_event_logo_read.png">
 </p>
 
 
