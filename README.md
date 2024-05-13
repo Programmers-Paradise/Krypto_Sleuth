@@ -27,6 +27,8 @@ Encrypted messages will be posted on [Krypto Sleuth](https://github.com/Programm
 Participants are needed to submit their solutions in the [submission Folder 📂](https://github.com/Programmers-Paradise/Krypto_Sleuth/tree/main/Submissions)
 
 
+For detailed instruction visit [Instructions📜](https://github.com/Programmers-Paradise/Krypto_Sleuth/blob/main/Instructions.pdf)
+
 
 ## *_This Event is Open For All_*
 
