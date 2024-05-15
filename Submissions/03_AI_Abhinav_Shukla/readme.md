@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center">Krpto Sleuth Solutions</h1>
+<h1 align="center">Krypto Sleuth Solutions</h1>
 
 <!-- Description -->
 <p align="center">Welcome to the repository containing solutions to the Krypto Sleuth Test problems. The solutions are provided in Rust  programming languages.</p>
