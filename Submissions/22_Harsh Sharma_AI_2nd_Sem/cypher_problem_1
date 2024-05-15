@@ -1,0 +1,49 @@
+Key:21
+I get 2 from History and 1 from Evolution in problem file.
+You can easily decrypt using below code, this code is for encyption and decryption also.
+So you have to give negative value for decryption and positive value for encryption.
+Like in this question we have key 21 and we have to decrypt so we give -21 as a shift value.
+
+
+
+
+#Code
+print("Enter the word to be deciphered = ")
+lines = []
+while True:
+    line = input()
+    if line:
+        lines.append(line)
+    else:
+        break
+b = '\n'.join(lines)
+shift=int(input("Enter shift value="))
+l1=[]
+l2=[]
+for i in b:
+    l1.append(ord(i))
+for x in l1:
+    if 64<x<91:
+        if x+shift >90:
+            x=x+shift-26
+            l2.append(x)
+        elif x+shift<65:
+            x = x + shift + 26
+            l2.append(x)
+        else:
+            l2.append(x+shift)
+    elif 96<x<123:
+        if x+shift >122:
+            x=x+shift-26
+            l2.append(x)
+        elif x+shift<97:
+            x = x + shift + 26
+            l2.append(x)
+        else:
+            l2.append(x+shift)
+    else:
+        l2.append(x)
+for c in l2:
+    print(chr(c),end="")
+
+#Thankyou
