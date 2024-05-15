@@ -1,0 +1,38 @@
+# "Cypher Problem 1"
+
+
+Topic:-"Caesar Cipher"
+
+
+# SOLUTION:-
+
+The "key" for the Encrypted Message is : "21"
+
+Scheme Used :-
+A -> 0                  O -> 14
+B -> 1                  P -> 15
+C -> 2                  Q -> 16
+D -> 3                  R -> 17
+E -> 4                  S -> 18
+F -> 5                  T -> 19
+G -> 6                  U -> 20
+H -> 7                  V -> 21
+I -> 8                  W -> 22
+J -> 9                  X -> 23
+K -> 10                 Y -> 24
+L -> 11                 Z -> 25
+M -> 12
+N -> 13
+
+
+"DECRYPTED MESSAGE"[PLAIN TEXT]:-
+
+Once upon a midnight dreary, while I pondered, weak And weary, .Over many a quaint And
+curious volume of forgotten lore— While I nodded, nearly napping, suddenly there came a
+tapping, As of some one gently rapping, rapping at my  chamber door. " 'Tis some visitor", 
+I muttered, "tapping at my chamber door— Only this and nothing more."
+
+Ah, distinctly I remember it was in the bleak December; And each separate dying ember 
+wrought its ghost upon the floor. Eagerly I wished  the morrow; -- vainly I had sought to 
+borrow. From my books surcease of sorrow-sorrow for the lost Lenore- For the rare and
+radiant maiden whom the angels name Lenore--Nameless here for evermore.
